@@ -5,9 +5,9 @@ body {
 h1 {
 	font-family: verdana;
 	font-size:  16px;
-	color: blue;
+	color: Lavender;
 	text-align: center;
-	border:  1px green;
+	border:  1px teal;
 	background-color:  #D3D3D3;
 	height:  30px;
 	border-radius:  10px;
@@ -25,7 +25,7 @@ p {
 }
 
 img {
-	border:  1px white;
+	border:  1px gold ;
 	border-radius: 25px;
 	background: #73AD21;
 	padding: 20px;
